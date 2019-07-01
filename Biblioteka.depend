@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1557674242 source:c:\users\peli\desktop\projekt - c++\file.cpp
+	"File.h"
+
+1557672914 c:\users\peli\desktop\projekt - c++\file.h
+	"Record.h"
+
+1556882359 source:c:\users\peli\desktop\projekt - c++\main.cpp
+	"File.h"
+
+1557262714 source:c:\users\peli\desktop\projekt - c++\record.cpp
+	"Record.h"
+
+1557262642 c:\users\peli\desktop\projekt - c++\record.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<vector>
+
+1556881001 c:\users\peli\desktop\projekt - c++\record.cpp
+	"Record.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+

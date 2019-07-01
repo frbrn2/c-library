@@ -1,0 +1,5 @@
+Dziady	Dramat	3	Peli	
+Tango	Dramat	4	Peli	
+Pan	Dramat	9	-----	
+Tadeusz	Mickwiecz	32	-----	
+Dziady3	Dramat	5	-----	
